@@ -39,7 +39,7 @@
   flex-grow: 1;
 }
 
-.task-wrapper {
+.task-new {
   display: flex;
 }
 
@@ -75,7 +75,7 @@ button {
 /* Heading */
 
 .title,
-.new-task-add {
+.new-task-add-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -103,7 +103,7 @@ button {
 }
 
 /* New Task */
-.new-task-add {
+.new-task-add-title {
   display: block;
   margin: 0 0 20px;
 }
