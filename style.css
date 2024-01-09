@@ -85,7 +85,7 @@ button {
   text-transform: uppercase;
 }
 
-#section__add__list{
+#section__add__list {
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -179,7 +179,7 @@ button {
   width: 224px;
 }
 
-.new__task__input{
+.new__task__input {
     display: inline;
 }
 
