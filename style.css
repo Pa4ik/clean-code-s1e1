@@ -145,6 +145,8 @@ button {
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
+  text-decoration: line-through;
+  color: #888;
 }
 
 .task__item > .input__task__text {
