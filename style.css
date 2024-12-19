@@ -145,8 +145,6 @@ button {
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
-  text-decoration: line-through;
-  color: #888;
 }
 
 .task__item > .input__task__text {
@@ -165,7 +163,7 @@ button {
 
 /* Completed */
 
-#completed__tasks > .label__task {
+#completed__tasks > .task__item > .label__task {
   text-decoration: line-through;
   color: #888;
 }
